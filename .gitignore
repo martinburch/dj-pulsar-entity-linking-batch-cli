@@ -1,0 +1,7 @@
+.vscode
+*.csv
+.pytest_cache
+venv
+.DS_Store
+__pycache__
+
